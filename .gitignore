@@ -1,2 +1,4 @@
 venv/
+logs/
 cours/
+dags/__pycache__/
