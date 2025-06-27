@@ -1,2 +1,3 @@
 {"timestamp":"2025-06-27T11:28:52.265612","level":"info","event":"Filling up the DagBag from /home/jooey_brunoo/Cours - Airflow/venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-06-27T11:29:23.238243","level":"info","event":"Filling up the DagBag from /home/jooey_brunoo/Cours - Airflow/venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-06-27T11:29:53.455433","level":"info","event":"Filling up the DagBag from /home/jooey_brunoo/Cours - Airflow/venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py","logger":"airflow.models.dagbag.DagBag"}

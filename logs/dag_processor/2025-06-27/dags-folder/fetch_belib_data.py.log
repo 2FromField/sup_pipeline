@@ -1,2 +1,3 @@
 {"timestamp":"2025-06-27T11:28:46.075494","level":"info","event":"Filling up the DagBag from /home/jooey_brunoo/Cours - Airflow/dags/fetch_belib_data.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-06-27T11:29:16.437996","level":"info","event":"Filling up the DagBag from /home/jooey_brunoo/Cours - Airflow/dags/fetch_belib_data.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-06-27T11:29:46.765060","level":"info","event":"Filling up the DagBag from /home/jooey_brunoo/Cours - Airflow/dags/fetch_belib_data.py","logger":"airflow.models.dagbag.DagBag"}
